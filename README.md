@@ -1,2 +1,2 @@
-# student_grade_tracker
+# Student Grade Tracker
 Console based application to track student grades
